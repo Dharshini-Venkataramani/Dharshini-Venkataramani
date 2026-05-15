@@ -20,7 +20,7 @@
 **Monitoring:** Grafana, Splunk, Redis  
 
 ## 📌 Featured Projects
-- 🤖 [Agentic AI Research Assistant]([https://github.com/Dharshini-Venkataramani](https://www.linkedin.com/feed/update/urn:li:activity:7460009668979912704/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwDrwwBMpPs3t14EONmgt-cfgqN9nxIh4o) — Multi-agent RAG system built on IBM watsonx | 3rd place IBM Hackathon
+- 🤖 [Agentic AI Research Assistant]([https://github.com/Dharshini-Venkataramani](https://www.linkedin.com/feed/update/urn:li:activity:7460009668979912704/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACwDrwwBMpPs3t14EONmgt-cfgqN9nxIh4o)) — Multi-agent RAG system built on IBM watsonx | 3rd place IBM Hackathon
 - 📊 [AI-powered Customer Sales Insights](https://github.com/Dharshini-Venkataramani/customer_sales_gpt_streamlit) — GPT-integrated dashboard for sales analytics
 - ✈️ [Airline Passenger Satisfaction Prediction]([https://github.com/Dharshini-Venkataramani](https://github.com/Dharshini-Venkataramani/airline_passenger_satisfaction) — Classification model with F1-score ~0.9
 

@@ -27,8 +27,3 @@
 ## 🏅 Certifications
 - Google Cloud Certified Associate Cloud Engineer (ACE)
 - Microsoft Azure Fundamentals AZ-900
-
-## 📫 How to Reach Me
-- 💼 [LinkedIn](https://linkedin.com/in/dharshinivenkataramani)
-- 📧 dharshinivenkata@gmail.com
-- 📍 Buffalo, New York

@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Dharshini 👋
 
-<!--
-**Dharshini-Venkataramani/Dharshini-Venkataramani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate student in **Data Sciences and Applications** at University at Buffalo  
+💼 Former **Systems Engineer at Tata Consultancy Services** (4 years) — building production GenAI and NLU systems  
+🏆 **3rd Place** — IBM SkillsBuild AI Hackathon (Agentic AI Research Assistant using IBM watsonx)
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+- Machine learning projects in classification, regression, and NLP
+- Agentic AI systems and RAG architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask Me About
+- GenAI and NLU system design
+- Google Cloud Platform (BigQuery, Pub/Sub, Dialogflow, Vertex AI)
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, R, Scala, Java  
+**ML & AI:** Scikit-learn, RAG, LLM, Agentic AI, IBM watsonx, Vertex AI, GenAI, NLP  
+**Cloud:** Google Cloud Platform, DagsHub  
+**DevOps:** Docker, Git, Jenkins CI/CD, Streamlit  
+**Monitoring:** Grafana, Splunk, Redis  
+
+## 📌 Featured Projects
+- 🤖 [Agentic AI Research Assistant](https://github.com/Dharshini-Venkataramani) — Multi-agent RAG system built on IBM watsonx | 3rd place IBM Hackathon
+- 📊 [AI-powered Customer Sales Insights](https://github.com/Dharshini-Venkataramani) — GPT-integrated dashboard for sales analytics
+- ✈️ [Airline Passenger Satisfaction Prediction](https://github.com/Dharshini-Venkataramani) — Classification model with F1-score ~0.9
+
+## 🏅 Certifications
+- Google Cloud Certified Associate Cloud Engineer (ACE)
+- Microsoft Azure Fundamentals AZ-900
+
+## 📫 How to Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/dharshinivenkataramani)
+- 📧 dharshinivenkata@gmail.com
+- 📍 Buffalo, New York

@@ -4,13 +4,9 @@
 💼 Former **Systems Engineer at Tata Consultancy Services** (4 years) — building production GenAI and NLU systems  
 🏆 **3rd Place** — IBM SkillsBuild AI Hackathon (Agentic AI Research Assistant using IBM watsonx)
 
-## 🔭 What I'm Working On
-- Machine learning projects in classification, regression, and NLP
-- Agentic AI systems and RAG architectures
-
 ## 💬 Ask Me About
 - GenAI and NLU system design
-- Google Cloud Platform (BigQuery, Pub/Sub, Dialogflow, Vertex AI)
+- Google Cloud Platform (BigQuery, Dialogflow, Looker Studio)
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, R, Scala, Java  

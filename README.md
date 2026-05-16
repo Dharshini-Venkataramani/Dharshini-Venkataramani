@@ -9,10 +9,15 @@
 - Google Cloud Platform (BigQuery, Dialogflow, Looker Studio)
 
 ## 🛠️ Tech Stack
+
 **Languages:** Python, SQL, R, Scala, Java  
+
 **Data Science & ML:** Pandas, Jupyter Notebook, NLU, GenAI, Vertex AI, Scikit-learn, Matplotlib, IBM watsonx Orchestrate, Agentic AI, RAG, Semantic Search, Machine Learning, LLM
+
 **Cloud & Data Platforms:** Google Cloud Platform (Dialogflow, BigQuery, Looker Studio, Pub/Sub), DagsHub
+
 **DevOps & Development:** Docker, Git, Jenkins CI/CD, Streamlit  
+
 **Monitoring & Tools:** Grafana, Splunk, Jira, Redis, Oracle
 
 ## 📌 Featured Projects
